@@ -17,4 +17,5 @@ git clone REPOURLclear
 | Change directory  | `cd folder` | `cd folder` |
 | Current directory | `pwd`       | `pwd`       |
 | Clear screen      | `cls`       | `clear`     |
+one more change
 
